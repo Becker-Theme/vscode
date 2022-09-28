@@ -5,7 +5,7 @@
 <hr>
 
 <p align="center">
-  <img alt="Celestial Preview" src="https://github.com/becker-theme/visual-studio-code/img/preview.png" style="border-radius: 5px;">
+  <img alt="Becker Preview" src="https://github.com/becker-theme/visual-studio-code/img/preview.png" style="border-radius: 5px;">
 </p>
 
 <hr>

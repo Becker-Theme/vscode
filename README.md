@@ -5,7 +5,7 @@
 <hr>
 
 <p align="center">
-  <img alt="Becker Preview" src="https://github.com/Becker-Theme/Becker-Theme/img/preview.png" style="border-radius: 5px;">
+  <img alt="Becker Preview" src="./img/preview.png" style="border-radius: 5px;">
 </p>
 
 <hr>

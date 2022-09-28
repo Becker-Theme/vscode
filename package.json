@@ -1,8 +1,31 @@
 {
-  "name": "Becker-Theme",
+  "name": "becker-theme",
   "displayName": "Becker Theme",
-  "description": "Becker Official Visual Studio Code Theme!",
+  "description": "Becker Theme Official. A dark Theme for Visual Studio Code!",
   "version": "0.0.1",
+  "publisher": "ErnstBeckerNeto",
+  "bugs": {
+    "url": "https://github.com/Becker-Theme/Becker-Theme/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Becker-Theme/Becker-Theme"
+  },
+  "keywords": [
+    "Theme",
+    "Dark",
+    "ErnstBeckerNeto",
+    "Becker",
+    "Becker Theme",
+    "Dark Theme",
+    "VS Code",
+    "Code",
+    "Visual Studio Code"
+  ],
+  "galleryBanner": {
+    "color": "#0b0c0f",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.71.0"
   },

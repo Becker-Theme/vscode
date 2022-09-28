@@ -1,0 +1,21 @@
+{
+  "name": "Becker-Theme",
+  "displayName": "Becker Theme",
+  "description": "Becker Official Visual Studio Code Theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Becker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Becker Theme-color-theme.json"
+      }
+    ]
+  }
+}

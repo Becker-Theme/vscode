@@ -1,5 +1,5 @@
 {
-  "name": "becker-theme",
+  "name": "becker",
   "displayName": "Becker",
   "description": "Becker Theme Official. A dark Theme for Visual Studio Code!",
   "version": "0.2.2",
@@ -35,7 +35,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Becker Theme",
+        "label": "Becker",
         "uiTheme": "vs-dark",
         "path": "./themes/Becker Theme-color-theme.json"
       }
